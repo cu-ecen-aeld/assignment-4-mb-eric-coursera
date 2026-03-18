@@ -1,0 +1,2 @@
+Git commit hash of the initial setup with buildroot as submodule, checked out branch 2024.02.x
+f8dacef0ec4f4e9fb4801e484f2feb42c5a8e349
