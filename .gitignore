@@ -2,4 +2,3 @@
 build/
 .vscode/
 *.log
-base_external/configs/*
